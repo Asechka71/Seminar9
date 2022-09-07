@@ -11,7 +11,7 @@ int n = Convert.ToInt32(Console.ReadLine());
 
 int SumNumbers(int m, int n)
 {
-    if (m < n)
+    if (m <= n)
     {
         if (m % 2 == 0)
         {

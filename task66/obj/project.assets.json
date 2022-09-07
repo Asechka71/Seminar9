@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anastasiaarefeva/Desktop/Seminar9/test/test.csproj",
+      "projectUniqueName": "/Users/anastasiaarefeva/Desktop/C#(seminars)/Seminar9/task66/test.csproj",
       "projectName": "test",
-      "projectPath": "/Users/anastasiaarefeva/Desktop/Seminar9/test/test.csproj",
+      "projectPath": "/Users/anastasiaarefeva/Desktop/C#(seminars)/Seminar9/task66/test.csproj",
       "packagesPath": "/Users/anastasiaarefeva/.nuget/packages/",
-      "outputPath": "/Users/anastasiaarefeva/Desktop/Seminar9/test/obj/",
+      "outputPath": "/Users/anastasiaarefeva/Desktop/C#(seminars)/Seminar9/task66/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/anastasiaarefeva/.nuget/NuGet/NuGet.Config"
